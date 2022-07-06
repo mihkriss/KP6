@@ -1,0 +1,13 @@
+Fedorov;A.D.;male;9;A;MAI;nigde
+Kamilov;R.T.;male;9;D;MGU;freelance
+Akimova;A.G.;female;11;E;PTU;freelance
+Zaycev;K.L.;male;9;A;MGU;nigde
+Gerasimova;P.L.;female;11;A;MPU;nigde
+Galkina;K.J.;female;11;C;MIREA;mcdonalds
+Gladkova;H.F.;female;9;B;MAI;freelance
+Belyakova;G.H.;female;11;B;MGU;mcdonalds
+Belousov;B.E.;male;11;F;MPU;nigde
+Gorlova;D.K.;female;9;A;MAI;freelance
+Denisova;H.T.;female;11;C;PTU;mcdonalds
+Demidov;D.V;male;11;B;MIREA;nigde
+
